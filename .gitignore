@@ -1,0 +1,20 @@
+# Archivos y carpetas específicos de Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Entorno virtual (venv)
+venv/
+
+# Archivos compilados de Python
+*.pyc
+
+# Carpeta de archivos de caché
+__pycache__/
+
+# Archivo de configuración de PyCharm
+.idea/
+
+# Archivos y carpetas específicos del sistema operativo
+.DS_Store
+*.swp
